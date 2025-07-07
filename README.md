@@ -1,8 +1,4 @@
-Sure! Here's a neat and professional `README.md` you can use for your project:
 
----
-
-```markdown
 # 🧠 LangChain Streamlit Demo using Qwen (via Ollama)
 
 This project demonstrates a simple chatbot interface built with **LangChain**, integrated with the **Qwen** large language model (via **Ollama**), and deployed through **Streamlit**. It's a lightweight tool for querying topics conversationally using an intuitive UI.
